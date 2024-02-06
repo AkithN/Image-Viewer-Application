@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViwer", "ImageViwer\ImageViwer.csproj", "{2393F3C4-843B-4193-8577-EBF197C39369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2393F3C4-843B-4193-8577-EBF197C39369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2393F3C4-843B-4193-8577-EBF197C39369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2393F3C4-843B-4193-8577-EBF197C39369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2393F3C4-843B-4193-8577-EBF197C39369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8D8EA9-B1AD-46AA-8455-660F49023AB6}
+	EndGlobalSection
+EndGlobal

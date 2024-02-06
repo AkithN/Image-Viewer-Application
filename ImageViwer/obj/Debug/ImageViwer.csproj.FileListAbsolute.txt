@@ -1,0 +1,10 @@
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\obj\Debug\ImageViwer.csproj.AssemblyReference.cache
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\obj\Debug\ImageViwer.Form1.resources
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\obj\Debug\ImageViwer.Properties.Resources.resources
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\obj\Debug\ImageViwer.csproj.GenerateResource.cache
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\obj\Debug\ImageViwer.csproj.CoreCompileInputs.cache
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\bin\Debug\ImageViwer.exe.config
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\bin\Debug\ImageViwer.exe
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\bin\Debug\ImageViwer.pdb
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\obj\Debug\ImageViwer.exe
+E:\NIBM\2nd Year\PDSA\Assessment 4\ImageViwer\ImageViwer\obj\Debug\ImageViwer.pdb
